@@ -1,0 +1,16 @@
+{
+    "name": "Xarbrough.ScriptableObjectCreator",
+    "rootNamespace": "Xarbrough.ScriptableObjectCreator",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,58 @@
+:root {
+    padding:4px;
+}
+
+.header {
+    -unity-font-style: bold;
+}
+
+.unity-foldout__text {
+    -unity-font-style: bold;
+}
+
+#Filters {
+    padding-bottom: 4px;
+}
+
+#MainScrollView {
+    border-color: #2a2a2a;
+    border-top-width: 1px;
+}
+
+.unity-list-view__item {
+    padding: 4px;
+    flex-direction: row;
+}
+
+.unity-list-view__item Label {
+    flex-shrink: 1;
+    text-overflow: clip;
+    overflow: hidden;
+    -unity-text-align: middle-left;
+}
+
+.indent {
+    margin-left: 18px;
+}
+
+.icon {
+    width: 16px;
+    height: 16px;
+    flex-shrink: 0;
+    margin-top: 1px;
+    margin-right: 2px;
+}
+
+Toolbar > Label {
+    flex-grow: 1;
+    -unity-text-align: middle-center;
+}
+
+ListView {
+    margin-top: 4px;
+}
+
+DropdownField {
+    align-self: flex-end;
+    margin-bottom: 4px;
+}
